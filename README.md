@@ -1,5 +1,9 @@
 #### Hi there! 🌱 I’m currently learning ...💼🎮🎈
 
+
+[![Python](https://images.app.goo.gl/s2VNQzW9AcrvVBQs5)](https://python.org)
+
+
 <!--
 **abdimk/abdimk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
