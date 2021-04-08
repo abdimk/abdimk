@@ -1,7 +1,7 @@
 #### Hi there! 🌱 I’m currently learning ...💼🎮🎈
 
 
-[![Python](https://images.app.goo.gl/s2VNQzW9AcrvVBQs5)]
+(https://images.app.goo.gl/s2VNQzW9AcrvVBQs5)
 
 
 <!--
