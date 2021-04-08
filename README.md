@@ -1,7 +1,7 @@
 #### Hi there! 🌱 I’m currently learning ...💼🎮🎈
 
 
-![](https://ibb.co/W6QY0SR.png)
+![](https://ibb.co/W6QY0SR)
 
 
 <!--
