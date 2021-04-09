@@ -1,7 +1,10 @@
 #### Hi there! 🌱 I’m currently learning ...💼🎮🎈
 
 
-![](https://ibb.co/W6QY0SR)
+[Abdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdimk&show_icons=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdimk&layout=compact)
+
 
 
 <!--
