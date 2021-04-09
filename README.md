@@ -1,9 +1,9 @@
 #### Hi there! 🌱 I’m currently learning ...💼🎮🎈
 
 
-[Abdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdimk&show_icons=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdimk&layout=compact)
+
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdimk&layout=compact)
 
 
 
