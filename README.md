@@ -3,7 +3,7 @@
 
 
 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdimk&layout=compact)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdimk&theme=merko&layout=compact)
 
 
 
