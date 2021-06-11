@@ -2,7 +2,7 @@
 
 
 
-![Abdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdimk&theme=merko&show_icons=true&include_all_commits=true)
+![Abdi's GitHub Stat
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdimk&theme=merko&layout=compact)
 
