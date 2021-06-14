@@ -2,7 +2,7 @@
 
 
 
-![Abdi's] GitHub Stat
+### Abdi's GitHub Stat
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdimk&theme=merko&layout=compact)
 
