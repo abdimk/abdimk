@@ -1,4 +1,4 @@
-#### Hi there! 🌱 I’m currently learning ...💼🎮🎈| [![Profile Views](https://gpvc.arturio.dev/abdimk)](https://github.com/abdimk)
+# Hi there! 👋| [![Profile Views](https://gpvc.arturio.dev/abdimk)](https://github.com/abdimk)
 
 
 
