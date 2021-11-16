@@ -15,8 +15,9 @@ currently_learning: ["C++", "React"]
 
 hobbies: ["Basketball", "Gaming", "Cycling",
           "Making Alexa do/say dumb stuff", "Anything dumb and useless"]
-          
 
+languages:["Python","CSS","HTML","JavaScript"]
+Frameworks and Tools: ["Flask","Django","Numpy","Pandas","Matplotlib","Heroku","Jupyter Notebook","NLTK","AWS","...ETC"]
 ```
 
 <!--
