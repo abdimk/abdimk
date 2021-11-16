@@ -5,7 +5,7 @@ name: Abdisa Merga
 located_in: Abdis Abeba
 from: Ethiopia
 education: ["High School Student"]
-job: Robotics Software Engineer
+job: ----------
 company: Babylon,UrbanAI,Arc_Cloud
 
 technical_interests: ["Planning", "Path Following", "Obstacle Avoidance", 
