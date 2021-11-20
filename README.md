@@ -1,22 +1,22 @@
 # Hey There! 👋| [![Profile Views](https://gpvc.arturio.dev/abdimk)](https://github.com/abdimk)
 
 ```yaml
-name: Abdisa Merga
-located_in: Abdis Abeba
-from: Ethiopia
-education: ["High School Student"]
-job: ----------
-company: Babylon,UrbanAI,Arc_Cloud
+Name: Abdisa Merga
+Located_in: Addis Abeba
+From: Ethiopia
+Education: ["High School Student"]
+Job: ----------
+Company: Babylon,UrbanAI,Arc_Cloud
 
-technical_interests: ["Planning", "Path Following", "Obstacle Avoidance", 
+Technical_interests: ["Planning", "Path Following", "Obstacle Avoidance", 
                       "Object Detection", "Sensor Fusion", "SLAM"]
                       
-currently_learning: ["C++", "React"]
+Currently_learning: ["C++", "React"]
 
-hobbies: ["Basketball", "Gaming", "Cycling",
+Hobbies: ["Basketball", "Gaming", "Cycling",
           "Making Alexa do/say dumb stuff", "Anything dumb and useless"]
 
-languages:["Python","CSS","HTML","JavaScript"]
+Languages:["Python","CSS","HTML","JavaScript"]
 Frameworks and Tools: ["Flask","Django","Numpy","Pandas","Matplotlib","Heroku","Jupyter Notebook","NLTK","AWS","...ETC"]
 ```
 
