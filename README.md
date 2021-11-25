@@ -1,7 +1,7 @@
 
 Q | A
 --- | --- 
-**My Machine**  | `Lenovo legion 5`
+**Code editor**  | `visual studio code\|sublime text`
 **Editor**  | `Visual Studio Code \|\| IntelliJ `
 **Platforms I develop for** | `Mobile, Web, CLI`
 **Languages I know**  | `C , JS, Python , Kotlin ,Dart,Php`
@@ -10,4 +10,4 @@ Q | A
 **Skills**  | `REST API ,Android Native Flutter,ReactJs ,Graphql , Database `
 
 
- ‏‏‎ ‎| ‏‏‎ ‎
+ ‏‏‎ ‎ ‏‏‎ ‎
