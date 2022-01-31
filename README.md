@@ -13,8 +13,7 @@ Technical_interests: ["Planning", "Path Following", "Obstacle Avoidance",
                       
 Currently_learning: ["C++", "React"]
 
-Hobbies: ["Basketball", "Gaming", "Cycling",
-          "Making Alexa do/say dumb stuff", "Anything dumb and useless"]
+Hobbies: ["Basketball", "Gaming", "Cycling"]
 
 Languages:["Python","CSS","HTML","JavaScript"]
 Frameworks and Tools: ["Flask","Django","Numpy","Pandas","Matplotlib","Heroku","Jupyter Notebook","NLTK","AWS","...ETC"]
