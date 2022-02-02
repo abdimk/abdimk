@@ -11,7 +11,7 @@ Company: Babylon,UrbanAI,Arc_Cloud
 Technical_interests: ["Planning", "Path Following", "Obstacle Avoidance", 
                       "Object Detection", "Sensor Fusion", "SLAM"]
                       
-Currently_learning: ["C++", "React"]
+Currently_learning: ["C++", "C"]
 
 Hobbies: ["Basketball", "Gaming", "Cycling"]
 
