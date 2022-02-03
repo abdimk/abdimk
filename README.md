@@ -6,7 +6,7 @@ Located_in: Addis Abeba
 From: Ethiopia
 Status: ["Student"]
 
-Job: ---------
+Job: --------
 Company: Babylon,UrbanAI,Arc_Cloud
 
 Technical_interests: ["Planning", "Path Following", "Obstacle Avoidance", 
