@@ -4,7 +4,7 @@
 Name: Abdisa Merga
 Located_in: Addis Abeba
 From: Ethiopia
-Education: ["High School Student"]
+Education: ["---------"]
 Job: ----------
 Company: Babylon,UrbanAI,Arc_Cloud
 
