@@ -25,10 +25,8 @@ Frameworks and Tools: ["Flask","Django","Numpy","Pandas","Matplotlib","Heroku","
 
 -->
  
-![Abdi's github stats](https://github-readme-stats.vercel.app/api?username=abdimk&show_icons=true&theme=radical&include_all_commits=true) 
-## 🌐 **Top Languages**
+![Abdi's github stats](https://github-readme-stats.vercel.app/api?username=abdimk&show_icons=true&theme=radical&include_all_commits=true) | [![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdimk&show_icons=true&theme=radical&layout=compact)](https://github.com/Abdimk)
 
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdimk&show_icons=true&theme=radical&layout=compact)](https://github.com/Abdimk)
 <!---
 ### Contribution Graph:
 
