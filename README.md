@@ -1,4 +1,5 @@
-# Hey There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">| [![Profile Views](https://gpvc.arturio.dev/abdimk)](https://github.com/abdimk)
+
+[![Profile Views](https://gpvc.arturio.dev/abdimk)](https://github.com/abdimk)
 
 ```yaml
 Name: Abdisa Merga
