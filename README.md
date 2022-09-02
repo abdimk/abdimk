@@ -52,9 +52,7 @@ gnnbnb
 
 
 <p></p>
-<a width="800px" href="https://github.com/vaulstein/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaulstein&repo=awsprofile&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+
 <p></p>
 
 <div align="center">
@@ -62,4 +60,4 @@ gnnbnb
 </div>
 
 
-Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/vaulstein/count.svg)
+Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/abdimk/count.svg)
