@@ -47,3 +47,9 @@ gnnbnb
 </details>
 ..
 -->
+## &#x1f4c8; GitHub Stats
+
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vaulstein&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+
+![Metrics](https://metrics.lecoq.io/vaulstein?template=terminal&languages=1&stars=1&stackoverflow=1&languages.colors=github&languages.threshold=0%25&stars.limit=4&stackoverflow.user=1934182&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=2&stackoverflow.lines=4&config.timezone=Asia%2FCalcutta)
