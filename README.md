@@ -50,9 +50,4 @@ gnnbnb
 
 <p></p>
 
-<div align="center">
-<img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
-</div>
 
-
-Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/abdimk/count.svg)
