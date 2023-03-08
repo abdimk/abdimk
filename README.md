@@ -12,6 +12,8 @@
 
 ## 👦 **About me**:
 
+Software developer 
+
 **Languages I currently know :**
 
 [![Python](https://img.shields.io/badge/-Python-%232c3e50?style=flat-square&logo=python)](https://python.org)
