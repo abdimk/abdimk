@@ -7,7 +7,7 @@
 - **🐋 [DigitalOcean](https://digitalocean.com) Power User 💪**
 - **🔥 [Python](https://python.org) & 👑 [C++](https://https://isocpp.org/) Lover 💖**
 - **I put mostly of my focus on [Python](https://python.org)
-- **My Everyday usage is based on: `.py` `.cpp `.sh`.cpp`.js`**
+- **My Everyday usage is based on: `.py` `.cpp ` `.sh` `.cpp` `.js`**
 <!--
 gnnbnb
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdimk&theme=merko&layout=compact)
