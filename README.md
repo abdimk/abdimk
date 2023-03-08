@@ -12,7 +12,7 @@
 
 ## 👦 **About me**:
 
-Software developer 
+`Software Developer`
 
 **Languages I currently know :**
 
