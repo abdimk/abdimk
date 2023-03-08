@@ -1,7 +1,7 @@
 
 [![Profile Views](https://gpvc.arturio.dev/abdimk)](https://github.com/abdimk)
 
-# <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"> **Hi!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> >~<** Abdisa | [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"> **Hi!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> [>_<]** Abdisa | [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 - **am a Student at Universty of [Hawassa](https://https://www.hu.edu.et/)**
 - **🐋 [Digital Ocean](https://digitalocean.com) Power User 💪**
