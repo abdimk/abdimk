@@ -1,26 +1,7 @@
 
 [![Profile Views](https://gpvc.arturio.dev/abdimk)](https://github.com/abdimk)
 
-
-```yaml
-Name: Abdisa Merga
-Located_in: Addis Abeba
-From: Ethiopia
-Status: ["Student"]
-
-Job: ------
-Company: Babylon,UrbanAI,Arc_Cloud
-
-Technical_interests: ["Planning", "Path Following", "Obstacle Avoidance", 
-                      "Object Detection", "Sensor Fusion", "SLAM"]
-                      
-Currently_learning: ["C++", "C", "PyTorch", "Monia"]
-
-Hobbies: ["Basketball", "Gaming", "Cycling"]
-
-Languages:["Python","CSS","HTML","JavaScript"]
-Frameworks and Tools: ["Flask","Django","Numpy","Pandas","Matplotlib","Heroku","Jupyter Notebook","NLTK","AWS","...ETC"]
-```
+# <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"> **Abdisa  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> >~<** watashi wa pokuruto desu ~  | [![Profile views](https://gpvc.arturio.dev/pokurt)](https://github.com/pokurt)
 
 <!--
 gnnbnb
