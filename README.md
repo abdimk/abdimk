@@ -8,6 +8,16 @@
 - **🔥 [Python](https://python.org) & 👑 [C++](https://https://isocpp.org/) Lover 💖**
 - **I put mostly of my focus on [Python](https://python.org)
 - **My Everyday usage is based on: `.py` `.cpp ` `.sh` `.cpp` `.js`**
+
+nn
+## 👦 **About me**:
+por
+**Languages I currently know :**
+
+[![Python](https://img.shields.io/badge/-Python-%232c3e50?style=flat-square&logo=python)](https://python.org)
+[![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=flat-square&logo=php)](https://php.net)
+[![Nim](https://img.shields.io/badge/-Nim-%232c3e50?style=flat-square&logo=nim)](https://nim-lang.org)
+[![bash](https://img.shields.io/badge/-bash-1f425f.svg?style=flat-
 <!--
 gnnbnb
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdimk&theme=merko&layout=compact)
