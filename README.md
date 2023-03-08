@@ -17,6 +17,13 @@ por
 [![Python](https://img.shields.io/badge/-Python-%232c3e50?style=flat-square&logo=python)](https://python.org)
 [![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=flat-square&logo=php)](https://php.net)
 [![Nim](https://img.shields.io/badge/-Nim-%232c3e50?style=flat-square&logo=nim)](https://nim-lang.org)
+[![Powershell](https://img.shields.io/badge/-PowerShell-%232c3e50?style=flat-square&logo=powershell)](https://docs.microsoft.com/en-us/powershell)
+
+**Languages I am Learning :**
+
+[![JavaScript](https://img.shields.io/badge/-JavaScript-%232c3e50?style=flat-square&logo=javascript)](https://nodejs.org)
+[![Go](https://img.shields.io/badge/-Go-%232c3e50?style=flat-square&logo=go)](https://golang.org)
+[![Rust](https://img.shields.io/badge/-Rust-%232c3e50?style=flat-square&logo=rust)](https://rust-lang.org)
 <!--
 gnnbnb
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdimk&theme=merko&layout=compact)
