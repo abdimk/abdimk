@@ -20,6 +20,7 @@
 [![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=flat-square&logo=php)](https://php.net)
 [![Nim](https://img.shields.io/badge/-Nim-%232c3e50?style=flat-square&logo=nim)](https://nim-lang.org)
 [![Powershell](https://img.shields.io/badge/-PowerShell-%232c3e50?style=flat-square&logo=powershell)](https://docs.microsoft.com/en-us/powershell)
+[![Nodejs](https://img.shields.io/badge/-Node-%232c3e50?style=flat-square&logo=node)]
 [![Cpp](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)
 
 **Languages I am Learning :**
