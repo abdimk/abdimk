@@ -3,10 +3,10 @@
 
 # <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"> **Hi!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> >~<** Abdisa | [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-- **am a student at Universty of [Hawassa](https://https://www.hu.edu.et/)**
+- **am a Student at Universty of [Hawassa](https://https://www.hu.edu.et/)**
 - **🐋 [Digital Ocean](https://digitalocean.com) Power User 💪**
 - **🔥 [Python](https://python.org) & 👑 [C++](https://https://isocpp.org/) Lover 💖**
-- **I put mostly of my focus on [Python](https://python.org)
+- **I put mostly of my focus on [Python](https://python.org)**
 - **My Everyday usage is based on: `.py` `.cpp ` `.sh` `.cpp` `.js`**
 
 
