@@ -3,7 +3,7 @@
 
 # <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"> **Hi!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> >~<** Abdisa | 
 
-- **am a student at Universty of -> [Hawassa](https://https://www.hu.edu.et/)**
+- **am a student at Universty of [Hawassa](https://https://www.hu.edu.et/)**
 - **🐋 [DigitalOcean](https://digitalocean.com) Power User 💪**
 - **🔥 [Python](https://python.org) & 👑 [C++](https://https://isocpp.org/) Lover 💖**
 - **I put mostly of my focus on [Python](https://python.org)
@@ -17,7 +17,6 @@ por
 [![Python](https://img.shields.io/badge/-Python-%232c3e50?style=flat-square&logo=python)](https://python.org)
 [![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=flat-square&logo=php)](https://php.net)
 [![Nim](https://img.shields.io/badge/-Nim-%232c3e50?style=flat-square&logo=nim)](https://nim-lang.org)
-[![bash](https://img.shields.io/badge/-bash-1f425f.svg?style=flat-
 <!--
 gnnbnb
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdimk&theme=merko&layout=compact)
