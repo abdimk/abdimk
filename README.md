@@ -1,8 +1,7 @@
 
 [![Profile Views](https://gpvc.arturio.dev/abdimk)](https://github.com/abdimk)
 
-# <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"> **Hi!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> >~<** Abdisa | [![Profile views](https://gpvc.arturio.dev/abdimk)](https://github.com/abdimk)
-
+# <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"> **Hi!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> >~<** Abdisa | 
 <!--
 gnnbnb
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdimk&theme=merko&layout=compact)
