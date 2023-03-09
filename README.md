@@ -12,7 +12,7 @@
 
 ##  **About me**:
 
-`Software Developer`
+`a Student`
 
 **Languages I currently know :**
 
