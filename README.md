@@ -5,7 +5,7 @@
 
 - **Am a Student at University of [Hawassa](https://https://www.hu.edu.et/)**
 - **🐋 [Digital Ocean](https://digitalocean.com) Power User 💪**
-- **🔥 [Python](https://python.org) & 👑 [C++](https://https://isocpp.org/) Lover 💖**
+- **🔥 [Python](https://python.org) & 👑 [C++](https://isocpp.org/) Lover 💖**
 - **I put mostly of my focus on [Python](https://python.org)**
 - **My Everyday usage is based on: `.py` `.cpp ` `.sh` `.cpp` `.js`**
 
