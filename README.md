@@ -8,7 +8,7 @@ I am Software Developer.
 --------------------------
 
 *   🌍  I'm based in Ethiopia, Addis Abeba
-*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://abdisa.rf.gd/400'>Portfolio</a>
+*   🖥️  Download my CV at <a target="_blank" rel="noreferrer" href='https://github.com/abdimk/abdimk/raw/main/CV.pdf'>Portfolio</a>
 *   🧠  Currently learning C/C++
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
@@ -22,7 +22,7 @@ I am Software Developer.
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" width="36" height="36" alt="C lang" /></a> &nbsp;
 
 ### Socials
-
+* Don't be shy contact me !
 <p align="left"> <a href="https://t.me/abdi_mk/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/480px-Telegram_logo.svg.png" width="32" height="32" /></a></p>
 
 
