@@ -24,4 +24,5 @@ I am Software developer.
 ### Socials
 
 <p align="left"> <a href="https://t.me/abdi_mk/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/480px-Telegram_logo.svg.png" width="32" height="32" /></a> </p>
+<p align="left"> <a href="mailto:abdisamk@gmail.com><img src="https://images.app.goo.gl/MCGcV7oLEVnUymqKA" width="32" height="32" /></a> </p>
 
