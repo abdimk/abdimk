@@ -23,5 +23,5 @@ I am Software developer.
 
 ### Socials
 
-<p align="left"> <a href="https://www.linkedin.com/in/stefan-topalovic-dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
+<p align="left"> <a href="https://t.me/abdi_mk/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/480px-Telegram_logo.svg.png" width="32" height="32" /></a> </p>
 
