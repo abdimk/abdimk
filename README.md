@@ -2,13 +2,7 @@
 [![Profile Views](https://gpvc.arturio.dev/abdimk)](https://github.com/abdimk)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdisa Merga
-========================================================================================================================================
-
-
-### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-
-[![Github](https://img.shields.io/github/followers/rfyiamcool?label=Follow&style=social)](https://github.com/rfyiamcool)
-<img src="https://visitor-badge.laobi.icu/badge?page_id=rfyiamcool.rfyiamcool" alt="visitor badge"/>  
+========================================================================================================================================  
 I am Software Developer.
 --------------------------
 
