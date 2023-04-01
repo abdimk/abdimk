@@ -9,7 +9,7 @@ I am Software Developer.
 *   🌍  I'm based in Ethiopia, Addis Abeba
 *   🖥️  Download my CV at <a target="_blank" rel="noreferrer" href='https://github.com/abdimk/abdimk/main/CV.pdf'>Here</a>
 *   🧠  Currently learning C/C++
-*   🤝  I'm open to collaborating on interesting projects as a developer = ### False 
+*   🤝  I'm open to collaborating on interesting projects as a developer = <strong> False </strong>
 
 ### Skills
 
