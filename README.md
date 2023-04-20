@@ -20,7 +20,8 @@ I am Software Developer.
 <a href="https://en.wikipedia.org/wiki/C%2B%a" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" width="36" height="36" alt="React" /></a> &nbsp;
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" width="36" height="36" alt="C lang" /></a> &nbsp;
 
-### Socials
+
+ ### Socials
 * Don't be shy contact me !
 <p align="left"> <a href="https://t.me/iamnetkas/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/480px-Telegram_logo.svg.png" width="32" height="32" /></a></p>
 
