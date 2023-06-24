@@ -9,8 +9,7 @@ I am Software Developer.
 *   🌍  I'm based in Ethiopia, Addis Abeba
 *   🖥️  Download my CV at <a target="_blank" rel="noreferrer" href='https://github.com/abdimk/abdimk/main/CV.pdf'>Here</a>
 *   🧠  Currently learning C/C++
-*   🤝  I'm open to collaborating on interesting projects as a developer = <strong> False </strong>
-
+*   🤝  I'm open to collaborating on interesting projects as a developer
 ### Skills
 
 <p align="left">
@@ -22,7 +21,7 @@ I am Software Developer.
 
 
  ### Socials
-* Don't be shy contact me !
+
 <p align="left"> <a href="https://t.me/iamnetkas/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/480px-Telegram_logo.svg.png" width="32" height="32" /></a></p>
 
 
