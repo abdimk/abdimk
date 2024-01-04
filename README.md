@@ -21,7 +21,7 @@ I am Software Developer.
 <!-- <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/SsTSkxS/Java-Logo.jpg" width="512px" height="130px" alt="Java lang" /></a> &nbsp; -->
 
 
-### Compitative 
+### competitive 
 
 <p align="left"> <a href="https://leetcode.com/abdisa/" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/zmrD32n/leetcode-button-icon-151892.png" width="100" /></a></p>
 
