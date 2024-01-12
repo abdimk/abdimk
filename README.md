@@ -23,9 +23,9 @@ I am Software Developer.
 <!--
 ### competitive 
 
-<p align="left"> <a href="https://leetcode.com/abdisa/" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/zmrD32n/leetcode-button-icon-151892.png" width="100" /></a></p> -->
+<p align="left"> <a href="https://leetcode.com/abdisa/" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/zmrD32n/leetcode-button-icon-151892.png" width="100" /></a></p> 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/abdisa?theme=dark)
+ ![Leetcode Stats](https://leetcard.jacoblin.cool/abdisa?theme=dark) -->
 
  ### Socials
 
