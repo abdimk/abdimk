@@ -27,10 +27,7 @@ I am Software Developer.
 
  ![Leetcode Stats](https://leetcard.jacoblin.cool/abdisa?theme=dark) -->
 
-# 📊 Wakatime Stats:
-![LinThit27's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abdimk\&layout=compact&theme=tokyonight&hide_border=true)
 
-[![wakatime](https://wakatime.com/badge/user/018c60c7-e61f-4b2e-a81d-8c0dbdb77ff5.svg?style=plastic)](https://wakatime.com/@018c60c7-e61f-4b2e-a81d-8c0dbdb77ff5)
  ### Socials
 
 <p align="left"> <a href="https://t.me/iamnetkas/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/480px-Telegram_logo.svg.png" width="32" height="32" /></a></p>
