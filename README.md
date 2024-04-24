@@ -23,7 +23,7 @@ Hi! I'm Abdisa
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" width="36" height="36" alt="C lang" /></a> &nbsp;
 <!-- <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/SsTSkxS/Java-Logo.jpg" width="512px" height="130px" alt="Java lang" /></a> &nbsp; -->
  
-<!--
+<!---
 ### Competitive 
 
 <p align="left"> 
