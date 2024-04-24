@@ -10,15 +10,7 @@ Hi! I'm Abdisa
 *   🧠  Currently learning <strong>DSA</strong>
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
-<!--
-  ### competitive 
 
-<p align="right"> 
-        <!-- <a href="https://leetcode.com/abdisa/" target="_blank" rel="noreferrer">
-            <img src="https://i.ibb.co/zmrD32n/leetcode-button-icon-151892.png" width="70" /></a> -->
-                <a href=""> <img src="https://leetcard.jacoblin.cool/abdisa?theme=dark" alt="" width="400" style="border-radius: 5px;"></a>
-            </p>
--->
 
 
 ### Skills
