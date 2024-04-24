@@ -24,11 +24,20 @@ Hi! I'm Abdisa
 <!-- <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/SsTSkxS/Java-Logo.jpg" width="512px" height="130px" alt="Java lang" /></a> &nbsp; -->
  
 
+### competitive 
+
+<p align="left"> 
+        <!-- <a href="https://leetcode.com/abdisa/" target="_blank" rel="noreferrer">
+            <img src="https://i.ibb.co/zmrD32n/leetcode-button-icon-151892.png" width="70" /></a> -->
+                <a href=""> <img src="https://leetcard.jacoblin.cool/abdisa?theme=dark" alt="" width="400" style="border-radius: 5px;"></a>
+ </p>
 
 
 
 ## Socials
 
 <p align="left"> <a href="https://t.me/iamnetkas/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/480px-Telegram_logo.svg.png" width="32" height="32" /></a></p>
+
+
 
 
