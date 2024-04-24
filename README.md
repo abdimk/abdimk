@@ -9,6 +9,13 @@ Hi! I'm Abdisa
 *   🖥️  Download my CV at <a target="_blank" rel="noreferrer" href='https://github.com/abdimk/abdimk/main/CV.pdf'>Here</a>
 *   🧠  Currently learning <strong>DSA</strong>
 *   🤝  I'm open to collaborating on interesting projects as a developer
+
+  ### competitive 
+
+<p align="left"> <a href="https://leetcode.com/abdisa/" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/zmrD32n/leetcode-button-icon-151892.png" width="100" /></a></p> 
+
+ ![Leetcode Stats](https://leetcard.jacoblin.cool/abdisa?theme=dark) 
+
 ### Skills
 
 <p align="left">
@@ -20,11 +27,6 @@ Hi! I'm Abdisa
 <!-- <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/SsTSkxS/Java-Logo.jpg" width="512px" height="130px" alt="Java lang" /></a> &nbsp; -->
 
  
-### competitive 
-
-<p align="left"> <a href="https://leetcode.com/abdisa/" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/zmrD32n/leetcode-button-icon-151892.png" width="100" /></a></p> 
-
- ![Leetcode Stats](https://leetcard.jacoblin.cool/abdisa?theme=dark) 
 
 
 
