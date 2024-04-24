@@ -12,7 +12,7 @@ Hi! I'm Abdisa
 
   ### competitive 
 
-<p align="right"> <a href="https://leetcode.com/abdisa/" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/zmrD32n/leetcode-button-icon-151892.png" width="100" /></a></p> 
+<p align="right"> <a href="https://leetcode.com/abdisa/" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/zmrD32n/leetcode-button-icon-151892.png" width="70" /></a></p> 
 
  ![Leetcode Stats](https://leetcard.jacoblin.cool/abdisa?theme=dark) 
 
