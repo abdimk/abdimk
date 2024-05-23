@@ -22,7 +22,7 @@ Hi! I'm Abdisa
 <a href="https://en.wikipedia.org/wiki/C%2B%a" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" width="36" height="36" alt="React" /></a> &nbsp;
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" width="36" height="36" alt="C lang" /></a> &nbsp;
 <!-- <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/SsTSkxS/Java-Logo.jpg" width="76" height="36"  alt="Java lang" /></a> &nbsp; -->
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/121px-PHP-logo.svg.png" width="56" height="36"  alt="php" /></a> &nbsp;
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/121px-PHP-logo.svg.png" width="66" height="36"  alt="php" /></a> &nbsp;
  
 <!--
 ### Competitive 
