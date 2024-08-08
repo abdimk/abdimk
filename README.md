@@ -6,7 +6,6 @@ Hii! I'm Netkas
 --------------------------
 
 *   🌍  I'm based in Ethiopia, Addis Abeba
-*   🧠  Currently learning <strong>DSA</strong>
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
 
