@@ -11,6 +11,10 @@ Hii! I'm Netkas
 *   📫  My email abdisamk@gmail.com
 *   🧠  Love doing DSA
 *   🤌  Lover of Go Lang,TypeScript, Microframeworks, Orchestration, Serverless Architecture
+*   👾  My Gist [https://gitlab.com/abdimk](https://gist.github.com/abdimk)
+*   🦊  Gitlab [https://gitlab.com/abdimk](https://gitlab.com/abdimk)
+
+
 
 
 
