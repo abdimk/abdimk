@@ -7,6 +7,10 @@ Hii! I'm Netkas
 
 *   🌍  I'm based in Ethiopia, Addis Abeba
 *   🤝  I'm open to collaborating on interesting projects as a developer
+*   👨‍💻  I Mostly work at Python API Development,Django,Machine Learning, DevOps
+*   📫  My email abdisamk@gmail.com
+*   🧠  Love doing DSA
+*   🤌  Lover of Go Lang,TypeScript, Microframeworks, Orchestration, Serverless Architecture
 
 
 
