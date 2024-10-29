@@ -13,7 +13,14 @@ Hii! I'm Netkas
 *   🦊  Gitlab [https://gitlab.com/abdimk](https://gitlab.com/abdimk)
 
 
+ 
+### Competitive 
 
+<p align="left"> 
+         <a href="https://leetcode.com/abdisa/" target="_blank" rel="noreferrer">
+            <img src="https://i.ibb.co/zmrD32n/leetcode-button-icon-151892.png" width="70" /></a> 
+                <a href=""> <img src="https://leetcard.jacoblin.cool/abdisa?theme=dark" alt="" width="430" style="border-radius: 5px;"></a>
+ </p>
 
 
 
@@ -29,15 +36,6 @@ Hii! I'm Netkas
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/121px-PHP-logo.svg.png" width="66" height="36"  alt="php" /></a> &nbsp;
 
  
-### Competitive 
-
-<p align="left"> 
-         <a href="https://leetcode.com/abdisa/" target="_blank" rel="noreferrer">
-            <img src="https://i.ibb.co/zmrD32n/leetcode-button-icon-151892.png" width="70" /></a> 
-                <a href=""> <img src="https://leetcard.jacoblin.cool/abdisa?theme=dark" alt="" width="430" style="border-radius: 5px;"></a>
- </p>
-
-
 ## Socials
 
 <p align="left"> <a href="https://t.me/iamnetkas/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/480px-Telegram_logo.svg.png" width="32" height="32" /></a></p>
