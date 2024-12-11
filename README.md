@@ -7,8 +7,7 @@ Hii! I'm Netkas
 
 *   👨‍💻  I Mostly work at Python API Development,Django,Machine Learning, DevOps
 *   📫  My email abdisamk@gmail.com
-*   🧠  Love doing DSA
-*   🤌  Lover of Go Lang,TypeScript, Microframeworks, Orchestration, Serverless Architecture
+*   🤌  Microframeworks, Orchestration, Serverless Architecture
 *   👾  My Gist [https://gist.github.com/abdimk](https://gist.github.com/abdimk)
 *   🦊  Gitlab [https://gitlab.com/abdimk](https://gitlab.com/abdimk)
 
