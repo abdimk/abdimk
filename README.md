@@ -1,6 +1,3 @@
-
-
-
 Hii! I'm Netkas
 ========================================================================================================================================  
 --------------------------
@@ -18,15 +15,10 @@ Hii! I'm Netkas
 
 ### Apache Tools
 I also worked with large scale ETL process,Big Data and Data Pipleline development with 
-- Hadoop - for distributed processing with HDFS(hadoop distrbuted file system)
-- Sqoop - to facilotate data transfer between RDB with HDFS
-- Nife - to monitor data flows and identify potential problems.
-- Apache Lucine / Solar For data indexing
-- Kafka -> Event Streaming
-- Apache Ambari - Manager and monitor Hadoop componenets
-- Prometheus - Event onitoring And Alerting
+- Hadoop, Sqoop, Nife ,Apache Lucine / Solar ,Kafka, Apache Ambari
 
 ### Other Toools
+- Prometheus 
 - ELK Stack(Elastic Search, Kibana, Logstash)
 - Docker Networking
 - K8 Cluster
