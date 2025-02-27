@@ -1,12 +1,6 @@
 Hii! I'm Netkas
 ========================================================================================================================================  
 --------------------------
-
-*   👨‍💻  I Mostly work at Python API Development,Django,Machine Learning, DevOps
-*   🤌  Microframeworks, Orchestration, Serverless Architecture
-*   👾  My Gist [https://gist.github.com/abdimk](https://gist.github.com/abdimk)
-*   🦊  Gitlab [https://gitlab.com/abdimk](https://gitlab.com/abdimk)
-
 ### Perfered Langauge To work with 🚀
 *  Python      WebFrameWorks(Django,Flask,FastAPI,Paydantic)
 *  Javascript  WebFrameWorks(React,NextJS,Alpine js) API (Express) Runtime (Node js)
