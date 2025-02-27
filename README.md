@@ -3,8 +3,7 @@ Hii! I'm Netkas👋
 --------------------------
 ### Preferred Langauge To work with 🚀
 *  Python      Web Framework(Django,Flask,FastAPI,Paydantic)
-*  Javascript  Web FrameWork(React,NextJS,Alpine js,Tailwind) API (Express) Runtime (Node js)
-*  PHP         Web FrameWork(Laravel with React) Filament as a component Library and with Laravel Sanctum
+*  Javascript/Typescript  Web FrameWork(React,NextJS,Alpine js,Tailwind) API (Express) Runtime (Node js)
 
 ### Apache Tools
 I also worked with large scale ETL process,Big Data and Data Pipleline development with 
