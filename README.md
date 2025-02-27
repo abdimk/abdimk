@@ -11,8 +11,27 @@ Hii! I'm Netkas
 *   👾  My Gist [https://gist.github.com/abdimk](https://gist.github.com/abdimk)
 *   🦊  Gitlab [https://gitlab.com/abdimk](https://gitlab.com/abdimk)
 
+### Perfered Langauge To work with 🚀
+*  Python      WebFrameWorks(Django,Flask,FastAPI,Paydantic)
+*  Javascript  WebFrameWorks(React,NextJS,Alpine js) API (Express) Runtime (Node js)
+*  PHP         WebFrameWorks(Laravel with React) Filament as a component Library and with Laravel Sanctum
 
- 
+### Apache Tools
+I also worked with large scale ETL process,Big Data and Data Pipleline development with 
+- Hadoop - for distributed processing with HDFS(hadoop distrbuted file system)
+- Sqoop - to facilotate data transfer between RDB with HDFS
+- Nife - to monitor data flows and identify potential problems.
+- Apache Lucine / Solar For data indexing
+- Kafka -> Event Streaming
+- Apache Ambari - Manager and monitor Hadoop componenets
+- Prometheus - Event onitoring And Alerting
+
+### Other Toools
+- ELK Stack(Elastic Search, Kibana, Logstash)
+- Docker Networking
+- K8 Cluster
+- ContainerD
+  
 ### Competitive 
 
 <p align="left"> 
