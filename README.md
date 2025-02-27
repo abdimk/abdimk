@@ -3,7 +3,6 @@ Hii! I'm Netkas
 --------------------------
 
 *   👨‍💻  I Mostly work at Python API Development,Django,Machine Learning, DevOps
-*   📫  My email abdisamk@gmail.com
 *   🤌  Microframeworks, Orchestration, Serverless Architecture
 *   👾  My Gist [https://gist.github.com/abdimk](https://gist.github.com/abdimk)
 *   🦊  Gitlab [https://gitlab.com/abdimk](https://gitlab.com/abdimk)
@@ -17,12 +16,8 @@ Hii! I'm Netkas
 I also worked with large scale ETL process,Big Data and Data Pipleline development with 
 - Hadoop, Sqoop, Nife ,Apache Lucine / Solar ,Kafka, Apache Ambari
 
-### Other Toools
-- Prometheus 
-- ELK Stack(Elastic Search, Kibana, Logstash)
-- Docker Networking
-- K8 Cluster
-- ContainerD
+### Other Development Toools
+- Prometheus, ELK Stack(Elastic Search, Kibana, Logstash), Docker Networking, K8 Cluster, ContainerD
   
 ### Competitive 
 
