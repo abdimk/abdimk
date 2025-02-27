@@ -4,6 +4,7 @@ Hii! I'm Netkas👋
 ### Preferred Langauge To work with 🚀
 *  Python      Web Framework(Django,Flask,FastAPI,Paydantic)
 *  Javascript/Typescript  Web FrameWork(React,NextJS,Alpine js,Tailwind) API (Express) Runtime (Node js)
+*  Go (echo,Gin) [relatively Preferred]
 
 ### Apache Tools
 I also worked with large scale ETL process,Big Data and Data Pipleline development with 
