@@ -1,7 +1,7 @@
 Hii! I'm Netkas👋
 ========================================================================================================================================  
 --------------------------
-### Preferred Language To work with 🚀
+### Preferred Languages To work with 🚀
 *  Python      Web Framework(Django,Flask,FastAPI,Pydantic)
 *  Javascript/Typescript  Web FrameWork(React,NextJS,Alpine js,Tailwind) API (Express) Runtime (Node js)
 *  Go (echo,Gin) [relatively Preferred]
