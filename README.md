@@ -1,16 +1,16 @@
 Hii! I'm Netkas👋
 ========================================================================================================================================  
 --------------------------
-### Preferred Langauge To work with 🚀
-*  Python      Web Framework(Django,Flask,FastAPI,Paydantic)
+### Preferred Language To work with 🚀
+*  Python      Web Framework(Django,Flask,FastAPI,Pydantic)
 *  Javascript/Typescript  Web FrameWork(React,NextJS,Alpine js,Tailwind) API (Express) Runtime (Node js)
 *  Go (echo,Gin) [relatively Preferred]
 
 ### Apache Tools
-I also worked with large scale ETL process,Big Data and Data Pipleline development with 
-- Hadoop, Sqoop, Nife ,Apache Lucine / Solar ,Kafka, Apache Ambari
+I also worked with large scale ETL process,Big Data and Data Pipeline development with 
+- Hadoop, Sqoop, Nife ,Apache Lucine / Solr ,Kafka, Apache Ambari
 
-### Other Development Toools
+### Other Development Tools
 - Prometheus, ELK Stack(Elastic Search, Kibana, Logstash), Docker Networking, K8 Cluster, ContainerD
   
 ### Competitive 
