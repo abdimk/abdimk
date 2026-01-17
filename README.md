@@ -13,7 +13,7 @@ I also worked with large scale ETL process,Big Data and Data Pipeline developmen
 ### Other Development Tools
 - Prometheus, ELK Stack(Elastic Search, Kibana, Logstash), Docker Networking, K8 Cluster, ContainerD
   
-### Competitive 
+ 
 
 <!-- <p align="left"> 
          <a href="https://leetcode.com/abdisa/" target="_blank" rel="noreferrer">
