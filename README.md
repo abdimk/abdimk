@@ -15,12 +15,12 @@ I also worked with large scale ETL process,Big Data and Data Pipeline developmen
   
 ### Competitive 
 
-<p align="left"> 
+<!-- <p align="left"> 
          <a href="https://leetcode.com/abdisa/" target="_blank" rel="noreferrer">
             <img src="https://i.ibb.co/zmrD32n/leetcode-button-icon-151892.png" width="0" />
          </a> 
                 <a href="https://leetcode.com/abdisa/"> <img src="https://leetcard.jacoblin.cool/abdisa?theme=dark" alt="" width="430" style="border-radius: 5px;"></a>
- </p>
+ </p> -->
  
 ## Socials
 
