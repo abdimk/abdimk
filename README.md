@@ -24,7 +24,7 @@ I also worked with large scale ETL process,Big Data and Data Pipeline developmen
  
 ## Socials
 
-<p align="left"> <a href="https://t.me/iamnetkas/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/480px-Telegram_logo.svg.png" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://t.me/iamnetkas/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/960px-Telegram_2019_Logo.svg.png" width="32" height="32" /></a></p>
 
 
 
